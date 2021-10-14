@@ -1,0 +1,65 @@
+body{
+    margin: 0%;
+    padding: 0%;   
+}
+#mainline{
+    background-color: brown;
+    display: block;
+    padding: 20px;
+    position: sticky;  
+}
+#mainline ul li{
+    display: inline;
+    margin-left:40px;
+    margin-right: 30px;
+    color: white;
+    font-size: large;
+}
+#footer{
+    background: url(img/social.jpg) no-repeat left ; 
+    background-color: orange;
+    text-align: center;  
+    padding: 20px;
+}
+#mainline :hover{
+    color: white;
+}
+.container {
+    position: relative;
+  }
+  #picture{
+    width: 100%;
+    height: 598px;
+  }
+  .text{
+    color: white;
+    background:orange;
+    border-radius:150px;
+    position: absolute;
+    margin-top: -585px;
+    padding: 40px;
+    margin-left: 0px;
+}
+#logo{
+    width: 125px;
+    height:200px;
+
+}
+#talk{
+  text-align: right;
+  margin-right: 350px;
+  
+}
+#longtalk{
+    text-align: right;
+    border-bottom: 1px dashed #777;
+}
+#work{
+    text-align: right;
+    border-bottom: 1px dashed #777;
+}
+#ok{
+text-align: right;
+    border-bottom: 1px dashed #777;
+}
+
